@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube--red)]()
-[![Linkedin Badge](https://img.shields.io/badge/-Kishor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kishor--01629954/)](https://www.linkedin.com/in/kishor-savani-35b309116/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kishor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishor-savani-35b309116/)](https://www.linkedin.com/in/kishor-savani-35b309116/)
 [![Website Badge](https://img.shields.io/badge/WebSite--green)]()
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Kishor-yellow)](https://stackoverflow.com/users/14990654/kishor-savani)
 
